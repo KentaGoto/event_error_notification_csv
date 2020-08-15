@@ -1,5 +1,7 @@
 # event_error_notification_csv 
-システムとアプリケーションのイベントエラーを csv に書き出す
+
+# Description  
+Write system and application event errors to csv.  
 
 ## Requirements  
 - Windows
