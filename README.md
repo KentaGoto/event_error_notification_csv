@@ -5,3 +5,6 @@ Write system and application event errors to csv.
 
 ## Requirements  
 - Windows
+
+## License
+MIT
