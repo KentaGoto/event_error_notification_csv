@@ -8,3 +8,6 @@ Write system and application event errors to csv.
 
 ## License
 MIT
+
+## Author  
+Kenta Goto
